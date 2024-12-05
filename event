@@ -1,0 +1,30 @@
+<html>
+<head>
+<title>regestratio form</title>
+</head>
+<body>
+<form>
+<label ="first name" > name ="first name"</label>
+<input type ="text"  name= "first name"/>
+<label ="last name" > name ="last name"</label>
+<input type ="text"  name= "last name"/>
+<label ="phone number" > name ="phone number"</label>
+<input type ="text"  name= "last name"/>
+<label>gender</label>
+<input type ="radio" name="female">female</input>
+<input type ="radio" name="male">male</input>
+
+<input type ="radio" name="others">others</input>
+<label ="organization" > name ="organization"</label>
+<input type ="text"  name= "organization"/>
+< input type ="button" > name="sudmit"</input>
+<form>
+</body>
+<html>
+
+
+
+
+
+
+
